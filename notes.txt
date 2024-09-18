@@ -2,11 +2,12 @@ https://app.freelogodesign.org/
 
 https://app.powerbi.com/view?r=eyJrIjoiNzdjOTU1MDYtODhhYi00NDY2LTk4N2QtYWE2ZDY2MzZhOTM5IiwidCI6ImRkYzg3Y2EyLTQ5MjgtNDY2Yi04YmMxLTRlYjM0NDIxNDFiMSIsImMiOjJ9
 
+echo "# powerbi-melonhead-farms" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Erik-Varga/powerbi-melonhead-farms-dashboard.git
+git remote add origin https://github.com/Erik-Varga/powerbi-melonhead-farms.git
 git push -u origin main
 
 git add .
